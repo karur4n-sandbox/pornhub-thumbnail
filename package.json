@@ -8,9 +8,12 @@
   "dependencies": {
     "@types/react": "^16.8.19",
     "@types/react-dom": "^16.8.4",
+    "@types/styled-components": "^4.1.18",
     "parcel-bundler": "^1.12.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-simple-animate": "^3.3.0",
+    "styled-components": "^4.3.2",
     "typescript": "^3.5.1"
   },
   "devDependencies": {
